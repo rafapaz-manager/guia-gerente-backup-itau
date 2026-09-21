@@ -1,4 +1,4 @@
-# 📋 Guia de Bordo do Gerente Backup: Gestão de Metas GERA
+# 📋 Guia de Bordo do Gerente Backup: Gestão de Metas 
 
 ## 🎯 Descrição
 Este projeto consiste em um guia prático de rituais de gestão e checklist para gerentes bancários backups. O objetivo é orientar o acompanhamento equilibrado da equipe nas 5 linhas de metas do sistema GERA:
@@ -22,7 +22,7 @@ Este projeto consiste em um guia prático de rituais de gestão e checklist para
 
 # GUIA PRÁTICO E CHECKLIST DIÁRIO
 
-## Gerente Backup — Acompanhamento GERA
+## Gerente Backup — Acompanhamento 
 
 ### Objetivo
 
@@ -42,7 +42,7 @@ O papel do gerente backup não é apenas acompanhar números. É **entender o ce
 
 ## Antes de falar com o time — 10 a 15 minutos
 
-☐ Verificar resultado atualizado do time no GERA
+☐ Verificar resultado atualizado do time no sistema
 ☐ Comparar realizado x objetivo
 ☐ Identificar quais linhas estão mais distantes do esperado
 ☐ Identificar destaques positivos
@@ -132,7 +132,7 @@ O acompanhamento durante o dia permite corrigir a rota.
 
 ---
 
-# 5. CHECKLIST GERA — 5 LINHAS
+# 5. CHECKLIST SISTEMA — 5 LINHAS
 
 ## 🟦 1. EQUILÍBRIO
 
